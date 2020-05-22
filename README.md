@@ -10,9 +10,11 @@ Combining two simple things we can create something new.
 
 **Cartoon**
 
+
 [![EMERGENCE](https://img.youtube.com/vi/Yyah49_Oz78/0.jpg)](https://www.youtube.com/watch?v=Yyah49_Oz78)
 
 **Hand-on experience**
+
 Mixing of colours
 
 ### Emergent behavior
